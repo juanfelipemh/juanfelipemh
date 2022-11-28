@@ -1,5 +1,5 @@
 # Hey there! 🤝 Welcome to my profile.
-![Capture](https://www.canva.com/design/DAFTMTZ6SCI/flFB6faHk352fEDdvgldhQ/view?utm_content=DAFTMTZ6SCI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Capture](https://www.canva.com/design/DAFTMTZ6SCI/lpxH6_DR0ms1Ea-KB5GUtQ/watch?utm_content=DAFTMTZ6SCI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 ## About me...
 👋 Hi ! I'm a software developer student with knowledge in NodeJS, Javascript, HTML, CSS, Java, MySQL and MongoDB. Feel free to reach out!
 
