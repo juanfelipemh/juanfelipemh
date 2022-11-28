@@ -1,5 +1,5 @@
 # Hey there! 🤝 Welcome to my profile.
-![Capture](https://user-images.githubusercontent.com/90589221/189510402-4f9397ae-0e1d-45ba-b27a-3ba854ffd8d5.PNG)
+![Capture](https://www.canva.com/design/DAFTMTZ6SCI/flFB6faHk352fEDdvgldhQ/view?utm_content=DAFTMTZ6SCI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ## About me...
 👋 Hi ! I'm a software developer student with knowledge in NodeJS, Javascript, HTML, CSS, Java, MySQL and MongoDB. Feel free to reach out!
 
