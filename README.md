@@ -1,5 +1,5 @@
 # Hey there! 🤝 Welcome to my profile.
-![Capture](https://www.canva.com/design/DAFTMTZ6SCI/lpxH6_DR0ms1Ea-KB5GUtQ/watch?utm_content=DAFTMTZ6SCI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![Capture](https://res.cloudinary.com/dx3v0vmpb/image/upload/v1669598433/Juan_felipe_mu%C3%B1oz_hurtado_nklqsy.png)
 ## About me...
 👋 Hi ! I'm a software developer student with knowledge in NodeJS, Javascript, HTML, CSS, Java, MySQL and MongoDB. Feel free to reach out!
 
