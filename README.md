@@ -1,7 +1,7 @@
 # Hey there! 🤝 Welcome to my profile.
 ![Capture](https://res.cloudinary.com/dx3v0vmpb/image/upload/v1669598433/Juan_felipe_mu%C3%B1oz_hurtado_nklqsy.png)
 ## About me...
-👋 Hi ! I'm a software developer student with knowledge in NodeJS, Javascript, HTML, CSS, Java, MySQL and MongoDB. Feel free to reach out!
+👋 Hi ! I'm a software developer student with knowledge in Java, Springboot, MySQL, NodeJS, Javascript, HTML, CSS, and MongoDB. Feel free to reach out!
 
 🐉 I’m looking to collaborate on new side projects
 
