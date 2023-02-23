@@ -11,13 +11,9 @@
 
 📫 How to reach me: juanfelipemh@gmail.com & www.linkedin.com/in/juanfelipemh/
 
-😄 Pronouns: He/him 
 
 ## Projects 🚂
 I really enjoy investing my time in technology projects, watch how all the pieces work together, it makes me feel thrilled, programming is that I use for communicate with those pieces. I've worked with JavaScript and Java. Right now, I implement them in order to do web apps in the Backend.
-
-Some of the projects:
-- [Ecommerce with NodeJS, Express, MongoDB, React, JavaScript, JWT](https://github.com/juanfelipemh/proyectods4)
 
 ## 🏅Technologies that I've used.
 
@@ -29,10 +25,6 @@ Some of the projects:
 | :---: | :---: | :---: |
 | ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) | ![MySQL](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![git](	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ## Check some of my stats
-
-| *GitHub Stats* | *Programming Languages* |
----|---  
-| ![NousCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=crisgahur&show_icons=true&theme=slateorange ) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisgahur&layout=compact&theme=slateorange )](https://github.com/anuraghazra/github-readme-stats) |
 
 ## 📡 Find me there:
 
